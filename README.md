@@ -34,7 +34,7 @@ while (alive) {
 ## 👨‍💻 Let's Connect!
 
 <div align="center">
-  <a href="https://github.com/Ramirez-05" target="_blank">
+  <a href="https://www.linkedin.com/in/santiago-ramirez-a348222b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://portafolio-kappa-self.vercel.app/" target="_blank">
